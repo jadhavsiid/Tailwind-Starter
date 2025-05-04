@@ -26,6 +26,7 @@ this will create **_tailwind.config.js_** file in our working directory.
 ```
 > [!NOTE]
 > It may show errors/problems due to linting, turn it off in settings.
+**_Link this CSS file to the index.html created in an earlier step_**
 <br>
 <br>
 
