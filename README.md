@@ -12,7 +12,7 @@ Commands to get started with Tailwind CSS
 <br>
 **Step-4:** Open integrated terminal inside an IDE and type the following command:
 ```bash
-#!/bin/bash
+
 npx tailwindcss@3.4.3 init
 ```
 this will create **_tailwind.config.js_** file in our working directory.
@@ -42,7 +42,7 @@ this would target all the **_.html_** file getting rendered.
 
 **Step-7:** Open integrated terminal and run the following command:
 ```bash
-#!/bin/bash
+
 npx tailwindcss@3.4.3 -i./src/input.css -o./dist/style.css --watch
 ```
 <br>
